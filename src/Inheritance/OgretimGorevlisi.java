@@ -8,7 +8,11 @@ public class OgretimGorevlisi extends Akademisyen {
         this.kapiNo = kapiNo;
     }
 
+    public String getKapiNo() {
+        return kapiNo;
+    }
 
-
-
+    public void setKapiNo(String kapiNo) {
+        this.kapiNo = kapiNo;
+    }
 }
