@@ -8,6 +8,9 @@ public class Asistan extends Akademisyen{
         this.ofisSaati = ofisSaati;
     }
 
+    public void quizYap(){
+        System.out.println(this.getAdSoyad()+" quiz yapiyor...");
+    }
     public String getOfisSaati() {
         return ofisSaati;
     }
