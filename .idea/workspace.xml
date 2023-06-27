@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="Memur sınıfını olusturdum.">
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/BilgiIslem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/BilgiIslem.java" afterDir="false" />
+    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="BilgiIslem sınıfını olusturdum.">
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/GuvenlikGorevlisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -109,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687852597609</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="BilgiIslem sınıfını olusturdum.">
+      <created>1687852967137</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687852967137</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -120,6 +129,7 @@
     <MESSAGE value="Asistan sınıfını olusturdum." />
     <MESSAGE value="LabAsistani sınıfını olusturdum." />
     <MESSAGE value="Memur sınıfını olusturdum." />
-    <option name="LAST_COMMIT_MESSAGE" value="Memur sınıfını olusturdum." />
+    <MESSAGE value="BilgiIslem sınıfını olusturdum." />
+    <option name="LAST_COMMIT_MESSAGE" value="BilgiIslem sınıfını olusturdum." />
   </component>
 </project>
