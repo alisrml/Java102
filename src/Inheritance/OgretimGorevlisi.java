@@ -8,6 +8,13 @@ public class OgretimGorevlisi extends Akademisyen {
         this.kapiNo = kapiNo;
     }
 
+    public void senatoToplanti(){
+        System.out.println(this.getAdSoyad()+" senato toplantisi yapiyor...");
+    }
+
+    public void sinavYap(){
+        System.out.println(this.getAdSoyad()+" sinav yapiyor...");
+    }
     public String getKapiNo() {
         return kapiNo;
     }
