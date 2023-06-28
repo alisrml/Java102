@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="xml flie">
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Hayvan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Kopek.java" afterDir="false" />
+    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="Polymorphism">
+      <change afterPath="$PROJECT_DIR$/src/Interface/ABank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/IBank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,6 +41,11 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Abstraction" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -147,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687853546995</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Polymorphism">
+      <created>1687857747266</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1687857747266</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -163,6 +176,7 @@
     <MESSAGE value=" Rename" />
     <MESSAGE value="Class Diagram of project" />
     <MESSAGE value="xml flie" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml flie" />
+    <MESSAGE value="Polymorphism" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism" />
   </component>
 </project>
