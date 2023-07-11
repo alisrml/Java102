@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="Interface">
-      <change afterPath="$PROJECT_DIR$/src/Generics/Ata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/MyList.java" afterDir="false" />
+    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="Liste sınıfı yapmak ödevi.">
+      <change afterPath="$PROJECT_DIR$/src/KitapSiralayici/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KitapSiralayici/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
       <recent name="Abstraction" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Ata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Generics.Ata" />
       <module name="Java102" />
@@ -63,8 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KitapSiralayici.Main" />
+      <module name="Java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KitapSiralayici.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Ata" />
       </list>
     </recent_temporary>
@@ -190,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687963945231</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Liste sınıfı yapmak ödevi.">
+      <created>1688809599702</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1688809599702</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +229,7 @@
     <MESSAGE value="xml flie" />
     <MESSAGE value="Polymorphism" />
     <MESSAGE value="Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface" />
+    <MESSAGE value="Liste sınıfı yapmak ödevi." />
+    <option name="LAST_COMMIT_MESSAGE" value="Liste sınıfı yapmak ödevi." />
   </component>
 </project>
