@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="Liste sınıfı yapmak ödevi.">
-      <change afterPath="$PROJECT_DIR$/src/KitapSiralayici/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KitapSiralayici/Main.java" afterDir="false" />
+    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="Kitap sıralayıcı.">
+      <change afterPath="$PROJECT_DIR$/src/Fikstur/FiksturOlusturucu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fikstur/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +49,26 @@
       <recent name="Abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Fikstur.Main">
     <configuration name="Ata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Generics.Ata" />
       <module name="Java102" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fikstur.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fikstur.Main" />
+      <module name="Java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fikstur.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fikstur.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Ata" />
       </list>
@@ -211,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688809599702</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Kitap sıralayıcı.">
+      <created>1689092918806</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1689092918806</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,6 +251,7 @@
     <MESSAGE value="Polymorphism" />
     <MESSAGE value="Interface" />
     <MESSAGE value="Liste sınıfı yapmak ödevi." />
-    <option name="LAST_COMMIT_MESSAGE" value="Liste sınıfı yapmak ödevi." />
+    <MESSAGE value="Kitap sıralayıcı." />
+    <option name="LAST_COMMIT_MESSAGE" value="Kitap sıralayıcı." />
   </component>
 </project>
