@@ -4,18 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="Fikstür olusturucu">
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Marka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/PatikaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Product/Pc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Product/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore2/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore2/CellPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore2/Notebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore2/PatikaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore2/Product.java" afterDir="false" />
+    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="PatikaStore">
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Account/AccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Account/Enterprise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Account/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Address/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Address/AddressManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Address/BusinessAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Address/HomeAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/AuthenticationStatus/AuthenticationStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/AuthenticationStatus/InvalidAuthenticationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Insurance/CarInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Insurance/HealthInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Insurance/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Insurance/ResidenceInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Insurance/TravelInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/User/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -58,7 +65,7 @@
       <recent name="Abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PatikaStore">
+  <component name="RunManager" selected="Application.SigortaYonetimSistemi.Main">
     <configuration name="Ata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Generics.Ata" />
       <module name="Java102" />
@@ -111,8 +118,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SigortaYonetimSistemi.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SigortaYonetimSistemi.Main" />
+      <module name="Java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SigortaYonetimSistemi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SigortaYonetimSistemi.Main" />
         <item itemvalue="Application.PatikaStore" />
         <item itemvalue="Application.Fikstur.Main" />
         <item itemvalue="Application.Main" />
@@ -262,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689099256234</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="PatikaStore">
+      <created>1689172078754</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1689172078755</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -283,6 +311,7 @@
     <MESSAGE value="Liste sınıfı yapmak ödevi." />
     <MESSAGE value="Kitap sıralayıcı." />
     <MESSAGE value="Fikstür olusturucu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fikstür olusturucu" />
+    <MESSAGE value="PatikaStore" />
+    <option name="LAST_COMMIT_MESSAGE" value="PatikaStore" />
   </component>
 </project>
