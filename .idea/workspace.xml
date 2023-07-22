@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="PatikaStore">
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Account/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Account/AccountManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Account/Enterprise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Account/Individual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Address/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Address/AddressManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Address/BusinessAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Address/HomeAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/AuthenticationStatus/AuthenticationStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/AuthenticationStatus/InvalidAuthenticationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Insurance/CarInsurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Insurance/HealthInsurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Insurance/Insurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Insurance/ResidenceInsurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Insurance/TravelInsurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SigortaYonetimSistemi/User/User.java" afterDir="false" />
+    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="Sigorta Yönetim Sistemi">
+      <change afterPath="$PROJECT_DIR$/src/ThreadlerinYarisi/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,20 +49,7 @@
       <recent name="Abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SigortaYonetimSistemi.Main">
-    <configuration name="Ata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Ata" />
-      <module name="Java102" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ThreadlerinYarisi.Main">
     <configuration name="Fikstur.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fikstur.Main" />
       <module name="Java102" />
@@ -131,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadlerinYarisi.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadlerinYarisi.Main" />
+      <module name="Java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreadlerinYarisi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadlerinYarisi.Main" />
         <item itemvalue="Application.SigortaYonetimSistemi.Main" />
         <item itemvalue="Application.PatikaStore" />
         <item itemvalue="Application.Fikstur.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Ata" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689172078755</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Sigorta Yönetim Sistemi">
+      <created>1689271729424</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1689271729425</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -312,6 +303,7 @@
     <MESSAGE value="Kitap sıralayıcı." />
     <MESSAGE value="Fikstür olusturucu" />
     <MESSAGE value="PatikaStore" />
-    <option name="LAST_COMMIT_MESSAGE" value="PatikaStore" />
+    <MESSAGE value="Sigorta Yönetim Sistemi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sigorta Yönetim Sistemi" />
   </component>
 </project>
