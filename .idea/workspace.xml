@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="Sigorta Yönetim Sistemi">
-      <change afterPath="$PROJECT_DIR$/src/ThreadlerinYarisi/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="26d98fd1-e36e-4755-afce-04fd7c4d97e3" name="Changes" comment="Threadlerin yarışı" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -281,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689271729425</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Threadlerin yarışı">
+      <created>1690012651105</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1690012651105</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -304,6 +308,7 @@
     <MESSAGE value="Fikstür olusturucu" />
     <MESSAGE value="PatikaStore" />
     <MESSAGE value="Sigorta Yönetim Sistemi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sigorta Yönetim Sistemi" />
+    <MESSAGE value="Threadlerin yarışı" />
+    <option name="LAST_COMMIT_MESSAGE" value="Threadlerin yarışı" />
   </component>
 </project>
